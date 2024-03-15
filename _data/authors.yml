@@ -1,14 +1,20 @@
-- name: Tae Soo Kim
+- name: Hyunwoo Kim
   affiliation: KAIST
-  website: https://taesookim.com
-  img: taesoo.jpeg
-- name: Seungsu Kim
+  website: https://hyunwoo.me
+  img: hyunwoo.jpg
+- name: Duy Khanh Le
+  affiliation: HCMUT
+  img: duy.png
+- name: Gionnieve Lim
+  affiliation: SUTD
+  img: gionnieve.jpg
+- name: Dae Hyun Kim
   affiliation: KAIST
-  img: seungsu.jpeg
-- name: Yoonseo Choi
+  website: https://dhkim0106.github.io
+  img: daehyun.jpg
+- name: Yoojin Hong
   affiliation: KAIST
-  website: https://yoonseochoi.com
-  img: yoonseo.png
+  img: yoojin.png
 - name: Juho Kim
   affiliation: KAIST
   website: https://juhokim.com
