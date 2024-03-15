@@ -4,6 +4,13 @@ layout: default
 
 ## Introduction
 
+{: .sys-img}
+
+<video muted autoplay controls loop>
+  <source src="/assets/video/interaction-overview.mp4" type="video/mp4">
+</video>
+
+
 Statistical statements that refer to data to support narratives or claims are commonly used to inform readers about the magnitude of social issues.
 While contextualizing statistical statements with relevant data supports readers in building their own interpretation of statements, the complexity of finding contextual information on the web and linking statistical statements with it impedes readers' efforts to do so.
 We present <span style="color:{{site.syscolor}}">DataDive</span>, an interactive tool for contextualizing statistical statements for the readers of online texts.
