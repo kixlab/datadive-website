@@ -23,6 +23,8 @@ DataDive supports exploring diverse contextualizations around statistical statem
 
 #### Step 1. Select Statistical Statement
 
+{: .img-center}
+
 ![DataDive UI for Selecting Statistical Statement](/assets/img/step1.png)
 
 The user can select a statistical statement of interest by (a) clicking a pre-highlighted statement within the article or (b) directly selecting a part of text, The user can also (c) directly write their question of interest.
@@ -88,7 +90,7 @@ We conducted a user study with 21 participants to evaluate how DataDive supports
 Participants valued that in-text highlights of statistical statements and recommendations of context candidates encouraged them to explore more external data. Participants also valued that using DataDive helped them be more knowledgable about the statistical indicators and read the text more critically.
 
 
-## IUI 2024 Paper (Camera-ready)
+## IUI 2024 Paper
 
 [Link to the PDF][1]
 
@@ -96,22 +98,7 @@ Participants valued that in-text highlights of statistical statements and recomm
 
 ## Bibtex
 <pre>
-@inproceedings{10.1145/3411764.3445686,
-  author = {Kim, Tae Soo and Kim, Seungsu and Choi, Yoonseo and Kim, Juho},
-  title = {Winder: Linking Speech and Visual Objects to Support Communication in Asynchronous Collaboration},
-  year = {2021},
-  isbn = {9781450380966},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3411764.3445686},
-  doi = {10.1145/3411764.3445686},
-  booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
-  articleno = {453},
-  numpages = {17},
-  keywords = {Visual Document, Team Collaboration, Speech, User Interface Design., Multimodal Input, Asynchronous Communication, Voice},
-  location = {Greenville, South Carolina},
-  series = {IUI '24}
-}
+TBA
 </pre>
 
 ------
@@ -123,5 +110,5 @@ Participants valued that in-text highlights of statistical statements and recomm
 {: .center .acknowledgement}
 This work was supported by the Institute of Information & Commu- nications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2021-0-01347, Video Interaction Technologies Using Object-Oriented Video Modeling). Dae Hyun Kim is partly supported by the G-CORE Research Project grant at KAIST.
 
-[1]:https://kixlab.github.io/website-files/2021/chi2021-Winder-paper.pdf
-[2]:https://dl.acm.org/doi/10.1145/3411764.3445686
+[1]:https://kixlab.github.io/website-files/2024/iui2024-DataDive-paper.pdf
+[2]:https://doi.org/10.1145/3640543.3645155
