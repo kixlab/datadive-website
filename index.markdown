@@ -29,6 +29,8 @@ The user can select a statistical statement of interest by (a) clicking a pre-hi
 
 #### Step 2. Browse Context Candidate
 
+{: .sys-img}
+
 <video muted autoplay controls loop>
   <source src="/assets/video/step2.mp4" type="video/mp4">
 </video>
@@ -37,6 +39,7 @@ Upon selecting a statistical statement, DataDive presents a list of context cand
 
 #### Step 3. Explore & Interpret Data
 
+{: .sys-img}
 <video muted autoplay controls loop>
   <source src="/assets/video/step3-UI.mp4" type="video/mp4">
 </video>
@@ -66,34 +69,7 @@ To retrieve the data value on the selected context, DataDive maps each component
 - Time periods: For implicit reference resolution, computing the time duration with Python or direct generation with LLM.
 
 
-<!-- In <span style="color:{{site.syscolor}}">Winder</span>, users send *linked tapes*, which are recordings of their voice and clicks on objects on the UI design. The system generates bidirectional links between voice snippets and clicked-on objects to support navigation and understanding the receiver side.
 
-The main components of the system's interface are (a) the top bar, (b) the list of linked tapes, and (c) the transcript space.
-
-{: .sys-img}
-![Winder next to the design for a screen of a mobile application](/assets/img/winder_main.png)
-
-### Object Highlighting on Voice Playback
-
-When the user plays a tape, <span style="color:{{site.syscolor}}">Winder</span> Winder displays the version of the document when the tape was recorded, and plays the voice audio while highlighting objects as they were clicked during recording.
-
-{: .sys-img}
-![An image of a salad in the UI design is highlighted while a recording appears to be playing in Winder.](/assets/img/winder_highlight.png)
-
-### Inline Thumbnail Images on Voice Transcripts
-
-{: .img-left}
-![A transcript of a voice recording is shown with inline thumbnail images of UI design objects.](/assets/img/winder_transcript.png)
-
-{: .text-right}
-<span style="color:{{site.syscolor}}">Winder</span> provides automatic transcripts of the voice recordings (generated through speech-to-text). On the transcript, it embeds thumbnail images of the objects clicked during the recording inline with the words of the transcript.
-
-### Object-based Search of Voice Recordings
-
-If the user clicks on an object in the UI design, <span style="color:{{site.syscolor}}">Winder</span> retrieves all tapes in which that object was selected. For each tape, the segment of the tape’s transcript during which the object had been clicked on is shown.
-
-{: .sys-img}
-![A gray rectangle is clicked in the UI design. In Winder, a list of tapes shows a short snippets from transcripts and thumbnails of the gray rectangle.](/assets/img/winder_search.png) -->
 
 ------
 
@@ -110,26 +86,7 @@ We evaluated the pipeline to verify whether the pipeline generates useful questi
 We conducted a user study with 21 participants to evaluate how DataDive supports readers explore more contexts around statistical statements and gain more knowledge on the topic of the text.
 
 Participants valued that in-text highlights of statistical statements and recommendations of context candidates encouraged them to explore more external data. Participants also valued that using DataDive helped them be more knowledgable about the statistical indicators and read the text more critically.
-<!-- ### 
 
-Tapes recorded by participants in a five-day user study were analyzed and categorized. The results showed that participants used <span style="color:{{site.syscolor}}">Winder</span> for a variety of purposes&mdash;with most tapes used for "Describing" or "Justifying" design choices, or "Coordinating" work within a team.
-
-{: .sys-img}
-![Table showing descriptions and example snippets of each tape category. Additionally, the table shows the perentage of tapes that fit into that category.](/assets/img/results_type.png)
-
-Participants mentioned how <span style="color:{{site.syscolor}}">Winder</span> increased their shared understanding, motivated them to work, and made them feel as if they were co-present.
-
-{: .center .quote}
-T2M1: *"The recordings left behind by my group members helped clarify some of the misunderstandings or confusions that I had."*
-
-{: .center .quote}
-T1M2: *"Understanding [my team members] actions and intentions was fun somehow and made me work harder."*
-
-{: .center .quote}
-T5M2: *"With the voice recordings and the feature that showed what the users clicked on as they talked, it was as if we were working together."*
-
-
------- -->
 
 ## IUI 2024 Paper (Camera-ready)
 
