@@ -106,7 +106,23 @@ Participants valued that in-text highlights of statistical statements and recomm
 
 ## Bibtex
 <pre>
-TBA
+@inproceedings{kim2024datadive,
+author = {Kim, Hyunwoo and Le, Khanh Duy and Lim, Gionnieve and Kim, Dae Hyun and Hong, Yoo Jin and Kim, Juho},
+title = {DataDive: Supporting Readers' Contextualization of Statistical Statements with Data Exploration},
+year = {2024},
+isbn = {9798400705083},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3640543.3645155},
+doi = {10.1145/3640543.3645155},
+abstract = {Statistical statements that refer to data to support narratives or claims are commonly used to inform readers about the magnitude of social issues. While contextualizing statistical statements with relevant data supports readers in building their own interpretation of statements, the complexity of finding contextual information on the web and linking statistical statements with it impedes readers’ efforts to do so. We present DataDive, an interactive tool for contextualizing statistical statements for the readers of online texts. Based on users’ selections of statistical statements, our tool uses an LLM-powered pipeline to generate candidates of relevant contexts and poses them as guiding questions to the user as potential contexts for exploration. When the user selects a question, DataDive employs visualizations to further help the user compare and explore contextually relevant data. A technical evaluation shows that DataDive generates important and diverse questions that facilitate exploration around statistical statements and retrieves relevant data for comparison. Moreover, a user study with 21 participants suggests that DataDive facilitates users to explore diverse contexts and to be more aware of how statistical data could relate to the text.},
+booktitle = {Proceedings of the 29th International Conference on Intelligent User Interfaces},
+pages = {623–639},
+numpages = {17},
+keywords = {Contextualization, Data visualization, Reader support},
+location = {Greenville, SC, USA},
+series = {IUI '24}
+}
 </pre>
 
 ------
